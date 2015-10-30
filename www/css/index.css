@@ -133,3 +133,14 @@ h1 {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
 }
+
+/* #hope{
+	position:absolute; 
+	border:none;
+	width:1px;
+	height:1px;
+} */
+
+#hope:target{
+	visibility:block;
+}
